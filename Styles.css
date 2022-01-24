@@ -1,0 +1,25 @@
+body {
+  background-color: lightgray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: pink;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 30px;
+  color: green;
+}
+
+div {
+  color: yellow;
+}
+
+a {
+  color: black;
+}
